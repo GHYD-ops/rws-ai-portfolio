@@ -1,3 +1,14 @@
+# RWS AI Portfolio
+
+Two AI-assisted self-directed learning samples by Ghaida Mohammed Althobaiti. The scenarios and data are fictional. The repository is not affiliated with RWS.
+
+## Projects
+
+1. [Bilingual AI Conversation Evaluation](#bilingual-ai-conversation-evaluation): Saudi Arabic and English business-conversation simulation and quality review.
+2. [Saudi Gift Store SQL Analysis](saudi-gift-store-sql/README.md): 12 executed SQLite queries, reproducible results, and interpretation of the same synthetic monthly data.
+
+The SQL sample and documentation were prepared with AI assistance. The queries were executed and checked. These samples support learning and should be described with their actual level of assistance and understanding.
+
 # Bilingual AI Conversation Evaluation
 
 **Self-Directed Portfolio Project | 2026**
